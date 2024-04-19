@@ -1,0 +1,17 @@
+.education-container h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  .education-container p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: rgb(40, 40, 104);
+  }
+  .education-container {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    background-color:#f2f2f2; /* Light gray background */
+    box-sizing: border-box; /* Ensure padding is included in width */
+    float:left; /* Remove float */
+  }

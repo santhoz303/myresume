@@ -1,0 +1,51 @@
+.projects-container h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  .projects-container p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: rgb(40, 40, 104);
+  }
+  .projects-container {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    background-color:#f2f2f2; /* Light gray background */
+    box-sizing: border-box; /* Ensure padding is included in width */
+    float:right; /* Remove float */
+  }
+  .achievements-container h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  .achievements-container p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: rgb(40, 40, 104);
+  }
+  .achievements-container {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    background-color:#f2f2f2; /* Light gray background */
+    box-sizing: border-box; /* Ensure padding is included in width */
+    float:unset; /* Remove float */
+  }
+  .skills-container h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  .skills-container p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: rgb(40, 40, 104);
+  }
+  .skills-container {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    background-color:#f2f2f2; /* Light gray background */
+    box-sizing: border-box; /* Ensure padding is included in width */
+    float:left; /* Remove float */
+  }
