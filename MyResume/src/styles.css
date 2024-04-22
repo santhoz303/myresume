@@ -1,1 +1,68 @@
-/* You can add global styles to this file, and also import other style files */
+
+h1{
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    
+}
+
+h2 {
+    font-family: "Rubik", sans-serif;
+    font-weight: 600;
+    color: rgb(82, 68, 71);
+    margin-bottom: 0;
+}
+
+h3 {
+    color: rgb(82, 68, 71);
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+hr {
+    margin: 0;
+    border: 2px solid;
+    color: rgb(82, 68, 71);
+}
+
+.proj-hr2 {
+    border: 1px dashed rgb(197, 197, 197);
+    border-radius: 10px;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .col {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height:auto; /* Should be removed. Only for demonstration */
+    padding: 0px 88px 0px 88px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    padding: 0px 88px 0px 88px;
+  }
+
+  body{
+    font-family: "Roboto" "Rubik" sans-serif;
+}
+
+li{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
